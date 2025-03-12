@@ -1,3 +1,6 @@
+![](media/programmer.gif)
+
+
 <div align="center">
   
 # 💫 Привет! Меня зовут Настя и я...
