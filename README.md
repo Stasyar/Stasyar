@@ -1,5 +1,8 @@
+<div align="center">
+  
 ![](media/programmer.gif)
-
+  
+</div>
 
 <div align="center">
   
